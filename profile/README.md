@@ -17,3 +17,7 @@ If you are a developer interested in the product, feel free to DM me on Discord 
 I want to express my gratitude to everyone who has shown support, not only on the repo but also through private messages, letting me know how cool the project is and providing valuable feedback.
 
 Your support has motivated me to consider revamping the whole project to provide you all with a better experience, regardless of whether I play osu anymore or not. 😄
+
+## Suggested Ports
+Frontend Service: 8001
+API Service: 5000 
