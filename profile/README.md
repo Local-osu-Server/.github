@@ -21,3 +21,4 @@ Your support has motivated me to consider revamping the whole project to provide
 ## Suggested Ports
 Frontend Service: 8001
 API Service: 5000 
+osu! Client Service: 5001
