@@ -18,7 +18,9 @@ I want to express my gratitude to everyone who has shown support, not only on th
 
 Your support has motivated me to consider revamping the whole project to provide you all with a better experience, regardless of whether I play osu anymore or not. 😄
 
-## Suggested Ports
+## Ports Per Service
+Mitmproxy: 8080
+
 Frontend Service: 8001
 
 API Service: 5000 
