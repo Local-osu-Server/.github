@@ -9,7 +9,7 @@ Right now, LOS is going through a huge rewrite, offering a much cleaner codebase
 When LOS is ready to launch, the setup script or however it's decided will be provided here with instructions.
 
 ## Want to help?
-As of 7/1/24, I'm considering creating a discord server for this service to ensure active updates on the product are shown to the community.
+[Discord server was made for this question!](https://discord.gg/KcgTtV25En)
 
 If you are a developer interested in the product, feel free to DM me on Discord (coverrrr) for further discussion!
 
